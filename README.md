@@ -7,10 +7,10 @@
 
 Specs:
 
-Processador Intel Core i5 8265u
-16gb de RAM
-SSD M.2 NVME 256gb
-Placa de rede sem fio DW1820A
+Processador Intel Core i5 8265u;
+16gb de RAM;
+SSD M.2 NVME 256gb;
+Placa de rede sem fio DW1820A;
 
 O que funciona:
 
